@@ -1,3 +1,3 @@
-# Oneliner
+# One-liner
 
-Quick and dirty oneliner scripts for SysOps.
+Quick and dirty one-liner scripts for converting json to yaml and vice versa.
